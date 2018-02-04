@@ -1,0 +1,12 @@
+Wrap any script as a macOS app.
+
+Usage: wrapp <script> [<options>]
+
+  -h, --help          Description.
+  -v, --version       Print version number and exit.
+  -n, --name          Specify a name for the app.
+  -o, --output        Specify an output folder.
+  -i, --icon          Specify a custom icon.
+  -t, --trash         Trash original script.
+
+Example: wrapp script.sh --name "App Title" --icon icon/*.icns

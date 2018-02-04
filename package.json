@@ -1,0 +1,21 @@
+{
+  "name": "wrapp",
+  "version": "1.0.0",
+  "description": "Wrap any script as a macOS app.",
+  "keywords": [
+    "shell",
+    "script",
+    "app",
+    "macOS",
+    "osx"
+  ],
+  "homepage": "http://max-os.github.io/wrapp",
+  "repository": "max-os/wrapp",
+  "bugs": "https://github.com/max-os/wrapp/issues",
+  "author": "Daniel Bayley <daniel.bayley@me.com> (https://github.com/danielbayley)",
+  "license": "MIT",
+  "os": [
+    "darwin"
+  ],
+  "bin": "cli.zsh"
+}
